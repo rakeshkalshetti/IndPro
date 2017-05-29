@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IndPro</string>
+    <string name="updatedAt">update at  \n %s</string>
+    <string name="likes">Likes (%d)</string>
+    <string name="disLikes">Dislikes (%d)</string>
+    <string name="imageDetails">Image Details</string>
+</resources>
